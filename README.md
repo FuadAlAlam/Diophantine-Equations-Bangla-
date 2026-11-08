@@ -4,7 +4,7 @@
 
 ---
 
-## 📌 সূচীপত্র
+## সূচীপত্র
 
 ### ১. সূচনা
 - **১.১ ডায়োফ্যান্টাইন সমীকরণ কী জিনিস???**
@@ -33,7 +33,7 @@
 
 ---
 
-## 🛠️ Compilation Guide
+## Compilation Guide
 
 এই ডকুমেন্টটি বাংলায় লেখার জন্য `latexbangla` প্যাকেজ এবং ফন্ট রেন্ডারিংয়ের জন্য **XeLaTeX** ইঞ্জিন ব্যবহার করা হয়েছে।
 
@@ -49,7 +49,7 @@ xelatex main.tex
 
 ---
 
-## 📚 References
+## References
 
 - **Aditya Khurmi** — *[Modern Olympiad Number Theory](https://drive.google.com/file/d/1BcJTLjQaelZ4w_70oHKyImC2I8zLfyrt/view)*
 - **Atonu Roy Chowdhury** — *[Diophantine Equations](https://atonurc.github.io/assets/dioph.pdf)*, BdMO National Camp 2021
